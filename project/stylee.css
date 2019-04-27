@@ -1,0 +1,46 @@
+#nick {
+    border: 3px;
+    background-color: lightgrey;
+    margin: 8px;
+    padding: 5px;
+}
+
+#summary {
+    border: 40px;
+    border-right: 30px;
+    margin: 5px;
+    padding: 20px;
+    padding-right: 40px;
+    background-color: lightgray;
+}
+
+#review {
+    background-color: lightgrey;
+    padding: 15px;
+    margin: 10px;
+    border: 2px;
+}
+
+.sub-btn {
+    background-color: red;
+    color: white;
+    border: solid 3px;
+    padding: 25px;
+    height: 20px;
+    margin: 10px;
+}
+
+div.comment {
+    border-style: groove;
+    border: 2px solid rgb(189, 176, 176);
+    margin: 20px;
+    padding: 10px;
+}
+
+#review-btn :hover {
+    cursor: pointer;
+    margin: 300px;
+    width: 100px;
+    height: 50px;
+    padding: 200px;
+}

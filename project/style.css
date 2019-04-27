@@ -1,0 +1,131 @@
+.login {
+    background-color: F02835;
+    color: white;
+}
+
+#header-share {
+    text-indent: 2%;
+}
+
+#home {
+    background-color: lightgrey;
+    padding: 5px;
+    margin: 0px border: 2px;
+}
+
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#nav {
+    text-align: center;
+    color: black;
+}
+
+#search-btn {
+    font-style: italic;
+    color: #b8b7b7;
+    background-color: #fff;
+}
+
+.main-image {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: 2px;
+    margin: 2px;
+    padding: 25px;
+    width: 50px;
+    height: 100px;
+    box-sizing: border-box;
+}
+
+.second-image {
+    float: left;
+    clear: left;
+}
+
+.third-image {
+    float: left;
+    clear: left;
+}
+
+.forth-image {
+    float: left;
+    clear: left;
+}
+
+.fifth-image {
+    color: #646464;
+    float: left;
+    clear: left;
+}
+
+#para {
+    float: right;
+    margin-top: 0px;
+    width: 75%;
+    height: 50%;
+    padding: 0px;
+    clear: right;
+}
+
+#para.size-chart {
+    text-decoration: underline;
+    color: black;
+}
+
+.social-media {
+    cursor: pointer;
+}
+
+#nick {
+    border: 3px;
+    background-color: lightgrey;
+    margin: 0px;
+    padding: 5px;
+}
+
+#summary {
+    border: 40px;
+    border-right: 30px;
+    margin: 0px;
+    padding: 0px;
+    padding-right: 40px;
+    background-color: lightgray;
+}
+
+#review {
+    background-color: lightgrey;
+    padding: 0px;
+    margin: 0px;
+    border: 2px;
+}
+
+.sub-btn {
+    background-color: red;
+    color: white;
+    border: solid 3px;
+    padding: 15px;
+    padding-bottom: 25px;
+    height: 10px;
+    margin: 15px;
+}
+
+div.comment {
+    border-style: groove;
+    border: 2px solid rgb(189, 176, 176);
+    margin: 0px;
+    padding: 0px;
+}
+
+#review-btn :hover {
+    cursor: pointer;
+    margin: 300px;
+    width: 100px;
+    height: 50px;
+    padding: 50px;
+    border: 100px;
+}
